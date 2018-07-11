@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GujjuVideos</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="communicate">Communicate</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="history">History</string>
+    <string name="disc">Disclaimer</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="more">MORE</string>
+    <string name="ok">Ok</string>
+    <string name="title_no_internet">No Internet</string>
+    <string name="title_internet_message">Please check your internet connection.</string>
+</resources>
